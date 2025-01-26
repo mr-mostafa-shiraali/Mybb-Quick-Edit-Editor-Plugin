@@ -24,4 +24,4 @@ Two simple condition :
 
 * You can enable this for specific forums and groups
 
-   ## More details : [Quick Edit Editor Plugin](https://community.mybb.com/thread-242779.html)
+## More details : [Quick Edit Editor Plugin](https://community.mybb.com/thread-242779.html)
